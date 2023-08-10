@@ -1,0 +1,2 @@
+# This keeps compatibility with upstream so merges aren't that bad
+* text=auto eol=crlf
